@@ -1,0 +1,6 @@
+numpy==1.19.5
+matplotlib==3.3.4
+torch==1.7.1
+kaggle_environments==1.7.11
+chartio==6.0.1
+ipython==7.22.0

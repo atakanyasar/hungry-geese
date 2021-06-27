@@ -1,0 +1,10 @@
+*vscode*
+*__pycache*
+aml_config*
+logs*
+outputs*
+*.html
+*.code*
+*.yml
+*pylitrc
+
